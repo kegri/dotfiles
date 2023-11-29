@@ -11,6 +11,12 @@ First, update your system using
 
 That should update the whole Arch Linux system that you got.
 
+Now, install the dependencies
+
+    yay -S base-devel pokemon-colorscripts-git hyprland-git hyprpicker-git xdg-desktop-portal-hyprland-git waybar cava kitty wofi starship wl-clipboard swaync swaylock-effects-git swaylockd tty-clock-git playerctl pavucontrol btop mpd mpd-mpris mpv mpv-mpris qt5-base qt5-wayland qt6-base qt6-wayland lsd geany bat cliphist-bin gamemode polkit-gnome wlogout visual-studio-code-bin boo-grub-git sddm-git boo-sddm-git yad blueman network-manager-applet libinput-gestures light --needed
+
+This should be all.
+
 ## GTK Themes, Icons and Cursors
 
 For installing the themes, icons and cursors, you should follow these steps
